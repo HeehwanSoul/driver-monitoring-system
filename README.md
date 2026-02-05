@@ -41,7 +41,7 @@ driver-monitoring-system/
 
 - FPS: 15+ on laptop webcam
 - Latency: < 100 ms
-- Platform: Windows / Linux / macOS
+- Platform: Windows (tested)
 
 ## Motivation
 
