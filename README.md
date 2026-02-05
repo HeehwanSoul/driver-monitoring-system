@@ -23,3 +23,40 @@ python src/main.py
 - [ ] Eye tracking
 - [ ] EAR-based drowsiness score
 - [ ] Demo GIF + report
+
+## Project Structure
+
+```
+driver-monitoring-system/
+│
+├── src/
+│   └── main.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
+
+## Performance (Target)
+
+- FPS: 15+ on laptop webcam
+- Latency: < 100 ms
+- Platform: Windows / Linux / macOS
+
+## Motivation
+
+This project was developed to explore in-cabin safety systems and driver monitoring technologies in the context of ADAS.  
+It aims to combine applied mathematics, computer vision, and real-time system design.
+
+## Future Improvements
+
+- Integration of deep learning-based face detection
+- Robust performance under low-light conditions
+- Embedded system deployment (e.g., Raspberry Pi)
+
+## Author
+
+**Heehwan Soul**  
+Applied Mathematics Student  
+GitHub: https://github.com/HeehwanSoul
+
